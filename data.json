@@ -1,0 +1,224 @@
+[
+    {
+        "artist_name": "the beatles",
+        "albums": [
+            {"album_name": "hey jude", "album_year": 1968},
+            {"album_name": "let it be", "album_year": 1970},
+            {"album_name": "help!", "album_year": 1965}
+        ],
+        "monthly_listeners": 523487,
+        "followers": 312000,
+        "likes": 150000,
+        "similar_artists": ["the rolling stones", "the beach boys", "the kinks"],
+        "first_album_release": 1965,
+        "featured": [
+            {
+                "album_name": "the concert for bangladesh",
+                "description": "A live album organized by George Harrison and Ravi Shankar in 1971, featuring The Beatles and other renowned artists."
+            },
+            {
+                "album_name": "love",
+                "description": "A soundtrack album by The Beatles, remixed by George Martin and his son Giles for the Cirque du Soleil show."
+            },
+            {
+                "album_name": "anthology 1",
+                "description": "A compilation album featuring rarities, outtakes, and live performances by The Beatles."
+            }
+        ],
+        "popular_songs": [
+            {
+                "song_name": "hey jude",
+                "artist": "the beatles",
+                "album": "the beatles",
+                "genre": "rock",
+                "year": 1968,
+                "played": 1000,
+                "likes": 50000
+            },
+            {
+                "song_name": "let it be",
+                "artist": "the beatles",
+                "album": "let it be",
+                "genre": "rock",
+                "year": 1970,
+                "played": 500,
+                "likes": 45000
+            },
+            {
+                "song_name": "help!",
+                "artist": "the beatles",
+                "album": "help!",
+                "genre": "rock",
+                "year": 1965,
+                "played": 850,
+                "likes": 40000
+            }
+        ]
+    },
+    {
+        "artist_name": "elton john",
+        "albums": [
+            {"album_name": "elton john", "album_year": 1970},
+            {"album_name": "honky château", "album_year": 1972},
+            {"album_name": "madman across the water", "album_year": 1971}
+        ],
+        "monthly_listeners": 398456,
+        "followers": 155000,
+        "likes": 168000,
+        "similar_artists": ["billy joel", "david bowie", "queen"],
+        "first_album_release": 1970,
+        "featured": [
+            {
+                "album_name": "the lion king soundtrack",
+                "description": "Features music composed by Elton John, including iconic songs like 'Can You Feel the Love Tonight'."
+            },
+            {
+                "album_name": "aida",
+                "description": "A concept album by Elton John and Tim Rice, based on their musical of the same name."
+            },
+            {
+                "album_name": "songs from the west coast",
+                "description": "An album by Elton John that marks a return to his classic 1970s sound."
+            }
+        ],
+        "popular_songs": [
+            {
+                "song_name": "your song",
+                "artist": "elton john",
+                "album": "elton john",
+                "genre": "pop",
+                "year": 1970,
+                "played": 3000,
+                "likes": 60000
+            },
+            {
+                "song_name": "rocket man",
+                "artist": "elton john",
+                "album": "honky château",
+                "genre": "pop",
+                "year": 1972,
+                "played": 5000,
+                "likes": 55000
+            },
+            {
+                "song_name": "tiny dancer",
+                "artist": "elton john",
+                "album": "madman across the water",
+                "genre": "pop",
+                "year": 1971,
+                "played": 1000,
+                "likes": 53000
+            }
+        ]
+    },
+    {
+        "artist_name": "michael jackson",
+        "albums": [
+            {"album_name": "thriller", "album_year": 1982}
+        ],
+        "monthly_listeners": 789234,
+        "followers": 930000,
+        "likes": 203000,
+        "similar_artists": ["prince", "stevie wonder", "whitney houston"],
+        "first_album_release": 1982,
+        "featured": [
+            {
+                "album_name": "we are the world",
+                "description": "A charity single featuring Michael Jackson and other major artists, raising funds for famine relief."
+            },
+            {
+                "album_name": "bad 25",
+                "description": "A 25th anniversary edition of Michael Jackson's 'Bad' album, featuring unreleased tracks and live performances."
+            },
+            {
+                "album_name": "history: past, present and future, book i",
+                "description": "A double album featuring some of Michael Jackson's greatest hits, along with new material."
+            }
+        ],
+        "popular_songs": [
+            {
+                "song_name": "thriller",
+                "artist": "michael jackson",
+                "album": "thriller",
+                "genre": "pop",
+                "year": 1982,
+                "played": 3000,
+                "likes": 70000
+            },
+            {
+                "song_name": "billie jean",
+                "artist": "michael jackson",
+                "album": "thriller",
+                "genre": "pop",
+                "year": 1983,
+                "played": 4000,
+                "likes": 68000
+            },
+            {
+                "song_name": "beat it",
+                "artist": "michael jackson",
+                "album": "thriller",
+                "genre": "pop",
+                "year": 1983,
+                "played": 2000,
+                "likes": 65000
+            }
+        ]
+    },
+    {
+        "artist_name": "madonna",
+        "albums": [
+            {"album_name": "like a prayer", "album_year": 1989},
+            {"album_name": "like a virgin", "album_year": 1984},
+            {"album_name": "true blue", "album_year": 1986}
+        ],
+        "monthly_listeners": 603491,
+        "followers": 410000,
+        "likes": 176000,
+        "similar_artists": ["cyndi lauper", "janet jackson", "whitney houston"],
+        "first_album_release": 1983,
+        "featured": [
+            {
+                "album_name": "who's that girl soundtrack",
+                "description": "Features songs by Madonna, including the title track 'Who's That Girl'."
+            },
+            {
+                "album_name": "i'm breathless",
+                "description": "An album by Madonna inspired by her role in the film 'Dick Tracy'."
+            },
+            {
+                "album_name": "evita soundtrack",
+                "description": "Features songs from the film 'Evita', in which Madonna starred as Eva Perón."
+            }
+        ],
+        "popular_songs": [
+            {
+                "song_name": "like a prayer",
+                "artist": "madonna",
+                "album": "like a prayer",
+                "genre": "pop",
+                "year": 1989,
+                "played": 2000,
+                "likes": 60000
+            },
+            {
+                "song_name": "like a virgin",
+                "artist": "madonna",
+                "album": "like a virgin",
+                "genre": "pop",
+                "year": 1984,
+                "played": 1000,
+                "likes": 59000
+            },
+            {
+                "song_name": "true blue",
+                "artist": "madonna",
+                "album": "true blue",
+                "genre": "pop",
+                "year": 1986,
+                "played": 3000,
+                "likes": 57000
+            }
+        ]
+    }
+]
