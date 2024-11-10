@@ -12,7 +12,7 @@ A simple music streaming application built in Python that allows users to search
 - **Artist and Song Information**: Get detailed information about songs and artists, including album names, release dates, and more.
 
 ## How to run the program
-Run the main.py file
+Run the main.py file. This file imports all the necessary modules and handles all user interaction.
 
 ## Installation
 
