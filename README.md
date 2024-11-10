@@ -11,6 +11,9 @@ A simple music streaming application built in Python that allows users to search
 - **Manage Playlists**: Create and manage playlists by adding your liked songs.
 - **Artist and Song Information**: Get detailed information about songs and artists, including album names, release dates, and more.
 
+## How to run the program
+Run the main,py file
+
 ## Installation
 
 1. Clone the repository:
