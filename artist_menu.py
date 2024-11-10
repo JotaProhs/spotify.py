@@ -1,5 +1,5 @@
-from input import InputHandler
 from cross_module_functions import CrossModuleDef
+from input import InputHandler
 
 
 class ArtistMenu:

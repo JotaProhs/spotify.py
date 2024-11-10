@@ -1,5 +1,6 @@
-from art_final import song_playing_art
 import time
+
+from art_final import song_playing_art
 
 
 class UserProfile:

@@ -1,9 +1,9 @@
 from artist import Artist
-from song import Song
-from input import InputHandler
-from song_menu import SongMenu
 from artist_menu import ArtistMenu
 from cross_module_functions import CrossModuleDef
+from input import InputHandler
+from song import Song
+from song_menu import SongMenu
 
 
 class MainMenu:

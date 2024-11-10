@@ -1,8 +1,9 @@
-from song import Song
-from art_final import song_playing_art
-import random
 import json
+import random
 import time
+
+from art_final import song_playing_art
+from song import Song
 
 
 class Artist:

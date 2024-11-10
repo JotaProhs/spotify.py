@@ -1,2 +1,176 @@
-__pycache__
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+env.bak/
+venv.bak/
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Pip and Pipenv files
+pip-log.txt
+pip-delete-this-directory.txt
+Pipfile
+Pipfile.lock
+
+# Poetry files
+poetry.lock
+poetry.toml
+
+# Pyre type checker
+.pyre/
+
+# Environments
+.env
+.env.*
+!.env.example
+
+# Secrets
+*.pem
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+cache/
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule files
+celerybeat-schedule
+
+# dotenv
+.env.local
+.env.*.local
+
+# Flask instance folder
+instance/
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-wheel-metadata/
+pip-wheel-metadata/*.json
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.nox/
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows 10 dump files
+.Dmp
+
+# Intellij project files
+*.iws
+.idea/
+*.ipr
+*.iml
+
+# JetBrains IDEs
+.idea/
+
+# VSCode files
+.vscode/
+
+# SQL Database
+*.sqlite3
+
+# Logs
+*.log
+logs/
+*.out
+*.err

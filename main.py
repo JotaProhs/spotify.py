@@ -1,9 +1,9 @@
 from artist import Artist
+from art_final import logo
+from input import InputHandler
+from main_menu import MainMenu
 from song import Song
 from user import UserProfile
-from main_menu import MainMenu
-from input import InputHandler
-from art_final import logo
 
 
 def main():
@@ -20,4 +20,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
